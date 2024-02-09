@@ -1,0 +1,29 @@
+.text-red{
+    color:red;
+}
+.heading{
+    font-size: 27px;
+    font-weight: bold;
+}
+.card-result{
+    background-color: white;
+    width: 500px;
+    border-radius: 25px;
+    padding: 25px;
+    border: 30px solid #9a5313;
+    background-color: #f5db91;
+}
+li {
+    border: 2px solid black;
+    color: black;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+    cursor: pointer;
+}
+
+li:hover {
+    background-color: gray;
+}
+
+
